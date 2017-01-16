@@ -1,0 +1,7 @@
+  <ul class="listArrow">
+                    <li><p class="txtPara">we deepened our technology beyond the initial search to make the home tour, the listing debut and escrows the whole
+                            process fastly and easily.</p></li>
+                    <li><p class="txtPara">our customer have not to be concerned for the procedural work done in between buying and selling, 
+                            they only have to be concerned about what to buy and sell.</p></li>
+
+                </ul>

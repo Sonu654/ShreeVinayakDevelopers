@@ -1,0 +1,3 @@
+<p class="txtPara">As of now we are working on Society & Plots development.
+                We are working on apartments & flats development as well. We'll update the information once we are done with the development process.
+            <p class="txtPara">We have both commercial and residential ploats in Haldwani, Nainital, Kausani, Bhimtal, Mukteswher, Ranikhet, Almora & other hill station.</p>
